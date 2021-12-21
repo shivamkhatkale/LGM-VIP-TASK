@@ -3,12 +3,12 @@ This task is to determine your understanding of HTML, CSS, JavaScript,ReactJS, P
 
 ## 01 BEGINNER LEVEL TASK 
 
-### CREATE A SINGLE PAGE WEBSITE
+#### CREATE A SINGLE PAGE WEBSITE
 
 ## 02 INTERMEDIATE LEVEL TASK
 
-Create a web application using create-react-app
+#### Create a web application using create-react-app
 
 ## 03 Advance LEVEL TASK
 
-### Student Result Management System.
+#### Student Result Management System.
